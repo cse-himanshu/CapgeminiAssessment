@@ -2,4 +2,4 @@
 
 # Assignement 2
 ### Result Screenshot
-![Output](./Pasted image.png)
+![Output](./Pasted%20image.png)
