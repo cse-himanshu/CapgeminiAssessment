@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: bookingService
+  config:
+   import: configserver:http://localhost:8081

@@ -1,0 +1,5 @@
+package com.assessment5.model;
+
+public class Movie {
+
+}

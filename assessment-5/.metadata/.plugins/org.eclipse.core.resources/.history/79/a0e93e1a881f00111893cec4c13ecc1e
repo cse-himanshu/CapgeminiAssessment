@@ -1,0 +1,10 @@
+package com.assessment5.dto;
+
+public class MovieRequestDTO {
+	
+	private String name;
+	
+	private String language;
+	
+	private Double price;
+}
